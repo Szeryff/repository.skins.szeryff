@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.skins.szeryff" name="Szeryff's Skin Modifications" version="1.0.1" provider-name="Szeryff">
+    <requires>
+        <import addon="xbmc.gui" version="5.15.0"/>
+    </requires>
+    <extension point="xbmc.addon.repository" name="Skin modifications by Szeryff">
+        <info compressed="true">https://github.com/Szeryff/repository.skins.szeryff/matrix/addons.xml</info>
+        <checksum>https://github.com/Szeryff/repository.skins.szeryff/matrix/addons.xml.md5</checksum>
+        <datadir zip="true">https://github.com/Szeryff/repository.skins.szeryff/matrix/download</datadir>
+        <hashes>false</hashes>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Install skin modifications by Szeryff</summary>
+        <description lang="en">Download and install skin modifications from Szeryff.</description>
+        <disclaimer lang="en">These skin mods are only lightly supported.</disclaimer>
+        <platform>all</platform>
+        <nofanart>true</nofanart>
+    </extension>
+</addon>
