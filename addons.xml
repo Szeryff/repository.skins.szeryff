@@ -19,6 +19,9 @@
             <description lang="en">Download and install skin modifications from Szeryff.</description>
             <disclaimer lang="en">These skin mods are only lightly supported.</disclaimer>
             <platform>all</platform>
+            <license>Creative Commons Attribution Non-Commercial Share-Alike 4.0</license>
+            <forum />
+            <source />
             <assets>
                 <icon>resources/icon.png</icon>
                 <fanart>resources/fanart.jpg</fanart>
