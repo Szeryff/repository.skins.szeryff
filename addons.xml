@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-    <addon id="skin.estuary.matrix.szeryff.mod" name="Estuary Matrix Mod (Szeryff)" version="1.0.2" provider-name="Szeryff">
+    <addon id="skin.estuary.matrix.szeryff.mod" name="Estuary Matrix Mod (Szeryff)" version="1.0.3" provider-name="Szeryff">
         <requires>
             <import addon="xbmc.gui" version="5.15.0"/>
         </requires>
@@ -25,7 +25,6 @@
             <assets>
                 <icon>resources/icon.png</icon>
                 <fanart>resources/fanart.jpg</fanart>
-                <screenshot>resources/screenshot-01.png</screenshot>
             </assets>
         </extension>
     </addon>

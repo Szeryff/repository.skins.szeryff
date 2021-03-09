@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.skins.szeryff" name="Szeryff's Skin Modifications" version="1.0.1" provider-name="Szeryff">
+<addon id="repository.skins.szeryff" name="Szeryff's Skin Modifications" version="1.0" provider-name="Szeryff">
     <requires>
         <import addon="xbmc.gui" version="5.15.0"/>
     </requires>
